@@ -12,3 +12,5 @@ def test_number_type():
 
 def test_is_student_type():
     assert test.is_student is True
+
+# 테스트코드입니다
